@@ -1,0 +1,9 @@
+node_modules
+dist
+.env.local
+.env
+.DS_Store
+_ref_numberbound
+_ref_regrouping
+.vscode
+index.css.bak

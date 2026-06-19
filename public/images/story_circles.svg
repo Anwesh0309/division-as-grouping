@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0a0a2e"/>
+  <text x="400" y="45" text-anchor="middle" fill="#ffc107" font-family="Fredoka,sans-serif" font-size="30" font-weight="800">Count the Groups!</text>
+  <!-- Circles with dots -->
+  <g transform="translate(100,100)">
+    <circle cx="60" cy="60" r="55" fill="rgba(124,92,191,0.3)" stroke="#7c5cbf" stroke-width="3"/>
+    <text x="60" y="70" text-anchor="middle" font-size="22" font-weight="bold" fill="white">���</text>
+    <text x="60" y="140" text-anchor="middle" fill="#ffd54f" font-family="Fredoka,sans-serif" font-size="16" font-weight="700">3 dots</text>
+  </g>
+  <g transform="translate(260,100)">
+    <circle cx="60" cy="60" r="55" fill="rgba(124,92,191,0.3)" stroke="#7c5cbf" stroke-width="3"/>
+    <text x="60" y="70" text-anchor="middle" font-size="22" font-weight="bold" fill="white">���</text>
+  </g>
+  <g transform="translate(420,100)">
+    <circle cx="60" cy="60" r="55" fill="rgba(124,92,191,0.3)" stroke="#7c5cbf" stroke-width="3"/>
+    <text x="60" y="70" text-anchor="middle" font-size="22" font-weight="bold" fill="white">���</text>
+  </g>
+  <g transform="translate(580,100)">
+    <circle cx="60" cy="60" r="55" fill="rgba(124,92,191,0.3)" stroke="#7c5cbf" stroke-width="3"/>
+    <text x="60" y="70" text-anchor="middle" font-size="22" font-weight="bold" fill="white">���</text>
+  </g>
+  <!-- Leo thinking -->
+  <text x="400" y="280" text-anchor="middle" font-size="50">>�</text>
+  <rect x="150" y="310" width="500" height="60" rx="16" fill="white"/>
+  <text x="400" y="350" text-anchor="middle" fill="#333" font-family="Fredoka,sans-serif" font-size="20" font-weight="700">4 groups � 3 in each = 12 total!</text>
+</svg>
