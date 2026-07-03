@@ -16,7 +16,7 @@
         {
           "key": "Content-Security-Policy",
           "value": "frame-ancestors 'self' https://intellia360.com"
-        }
+        },
         {
           "key": "X-XSS-Protection",
           "value": "1; mode=block"
